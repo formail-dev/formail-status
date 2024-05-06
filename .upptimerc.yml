@@ -11,7 +11,7 @@ sites:
 
 status-website:
   cname: status.formail.dev
-  logoUrl: https://www.formail.dev/_next/image?url=/logo.png&w=2048&q=75
+  logoUrl: https://www.formail.dev/_next/image?url=/logo-icon.png&w=828&q=75
   name: Formail
   navbar:
     - title: Status
